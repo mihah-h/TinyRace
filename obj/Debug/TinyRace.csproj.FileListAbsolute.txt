@@ -1,0 +1,10 @@
+C:\Users\Mike\OneDrive\Рабочий стол\Tiny Race\TinyRace\bin\Debug\TinyRace.exe.config
+C:\Users\Mike\OneDrive\Рабочий стол\Tiny Race\TinyRace\bin\Debug\TinyRace.exe
+C:\Users\Mike\OneDrive\Рабочий стол\Tiny Race\TinyRace\bin\Debug\TinyRace.pdb
+C:\Users\Mike\OneDrive\Рабочий стол\Tiny Race\TinyRace\obj\Debug\TinyRace.csproj.AssemblyReference.cache
+C:\Users\Mike\OneDrive\Рабочий стол\Tiny Race\TinyRace\obj\Debug\TinyRace.Properties.Resources.resources
+C:\Users\Mike\OneDrive\Рабочий стол\Tiny Race\TinyRace\obj\Debug\TinyRace.csproj.GenerateResource.cache
+C:\Users\Mike\OneDrive\Рабочий стол\Tiny Race\TinyRace\obj\Debug\TinyRace.csproj.CoreCompileInputs.cache
+C:\Users\Mike\OneDrive\Рабочий стол\Tiny Race\TinyRace\obj\Debug\TinyRace.exe
+C:\Users\Mike\OneDrive\Рабочий стол\Tiny Race\TinyRace\obj\Debug\TinyRace.pdb
+C:\Users\Mike\OneDrive\Рабочий стол\Tiny Race\TinyRace\obj\Debug\TinyRace.Form1.resources
